@@ -2,6 +2,8 @@
 
 A React-based planning calendar application for managing orders and their implementation schedules. Built with **React**, **TypeScript**, and **Vite**.
 
+**[Live Demo](https://vasylrosokha.github.io/Planning-Calendar/)**
+
 This project is based on the [RTsoft React test assignment](specification.pdf) (original specification in Czech).
 
 ## Features
